@@ -1,0 +1,41 @@
+body{margin:5px;font-family:Tahoma; font-size:10pt; color:#000000; font-style:Normal; font-weight:Normal; text-align:Left;}
+h1 {font-family:Tahoma; font-size:12pt; color:#000000; font-style:Normal; font-weight:Bold; text-align:Left;}
+h2 {font-family:Tahoma; font-size:11pt; color:#004080; font-style:Normal; font-weight:Bold; text-align:Left;}
+h3 {font-family:Tahoma; font-size:10pt; color:#0080FF; font-style:Normal; font-weight:Bold; text-align:Left;}
+h4 {font-family:Tahoma; font-size:10pt; color:#008000; font-style:Normal; font-weight:Bold; text-align:Left;}
+span.Att {font-family:Tahoma; font-size:10pt; color:#000000; font-style:Normal; font-weight:Bold; text-align:Left;}
+span.Con {font-family:Tahoma; font-size:10pt; color:#000080; font-style:Normal; font-weight:Bold; text-align:Left;}
+p {font-family:Tahoma; font-size:8pt; color:#000080; font-style:Normal; font-weight:Normal; text-align:Left;}
+p.foot {font-family:Tahoma; font-size:8pt; color:#000080; font-style:Normal; font-weight:Normal; text-align:Left;padding:3px;}
+a:link{font-family:Tahoma; font-size:10pt; color:#004080; font-style:Normal; font-weight:Bold; text-align:Left;}
+a:visited{font-family:Tahoma; font-size:10pt; color:#800080; font-style:Normal; font-weight:Bold; text-align:Left;}
+a.menu:link{font-family:Tahoma; font-size:9pt; color:#800080; font-style:Normal; font-weight:Bold; text-align:Left; text-decoration:none;}
+a.menu:visited{font-family:Tahoma; font-size:9pt; color:#FF0000; font-style:Normal; font-weight:Bold; text-align:Left; text-decoration:none;}
+a.menu:hover{font-family:Tahoma; font-size:9pt; color:#FF0000; font-style:Normal; font-weight:Bold; text-align:Left; text-decoration:underline;}
+td.Menu {padding:5px;vertical-align:top; background-color:#CCCC99;}
+table{empty-cells:show;border-spacing:2px;vertical-align:top; font-family:Tahoma; font-size:10pt; color:#000000; font-style:Normal; font-weight:Normal; text-align:Left; background-color:#CCCCCC;}
+th {padding:2px;vertical-align:top; font-family:Tahoma; font-size:10pt; color:#000000; font-style:Normal; font-weight:Normal; text-align:Left; background-color:#CCCC99;}
+td {padding:2px;vertical-align:top; font-family:Tahoma; font-size:10pt; color:#000000; font-style:Normal; font-weight:Normal; text-align:Left; background-color:#FFFFCC;}
+td.Col1 {padding:2px;vertical-align:top; font-family:Tahoma; font-size:10pt; color:#000000; font-style:Normal; font-weight:Normal; text-align:Left; background-color:#FFFFCC;}
+td.Col2 {padding:2px;vertical-align:top; font-family:Tahoma; font-size:10pt; color:#000000; font-style:Normal; font-weight:Normal; text-align:Left; background-color:#FFFFEE;}
+td.Col3 {padding:2px;vertical-align:top; font-family:Tahoma; font-size:10pt; color:#000000; font-style:Normal; font-weight:Normal; text-align:Left; background-color:#FFFFCC;}
+td.Col4 {padding:2px;vertical-align:top; font-family:Tahoma; font-size:10pt; color:#000000; font-style:Normal; font-weight:Normal; text-align:Left; background-color:#FFFFEE;}
+td.Col5 {padding:2px;vertical-align:top; font-family:Tahoma; font-size:10pt; color:#000000; font-style:Normal; font-weight:Normal; text-align:Left; background-color:#FFFFCC;}
+td.Value {padding:2px;vertical-align:top; font-family:Tahoma; font-size:10pt; color:#000000; font-style:Normal; font-weight:Normal; text-align:Left; background-color:#CCFFFF;}
+td.na {padding:2px;vertical-align:top; font-family:Tahoma; font-size:10pt; color:#000000; font-style:Normal; font-weight:Normal; text-align:Left; background-color:#FFCC99;}
+br.brright {clear:right}
+br.brleft {clear:left}
+table.Footer {padding:4px;empty-cells:show;border-spacing:4px;vertical-align:middle; font-family:Tahoma; font-size:8pt; color:#000000; font-style:normal; font-weight:normal; text-align:left; background-color:#FFFFFF;}
+table.Tree {margin:10px;padding:0px;empty-cells:show;border-spacing:0px;vertical-align:middle; font-family:Tahoma; font-size:8pt; color:#000000; font-style:normal; font-weight:normal; text-align:left; background-color:#FFFFFF;}
+th.tree {padding:15px 2px;vertical-align:top; font-family:Tahoma; font-size:10pt; color:#000000; font-style:normal; font-weight:bold; text-align:left;background-color:#FFFFFF;}
+td.Tree {padding:0px;vertical-align:top; font-family:Tahoma; font-size:10pt; color:#000000; font-style:normal; font-weight:normal; text-align:left; background-color:#FFFFFF;}
+td.Att {padding:0px;vertical-align:top;font-family:Tahoma; font-size:8pt; color:#0000FF; font-style:normal; font-weight:normal; text-align:left; background-color:#FFFFFF;}
+td.Val {padding:0px;vertical-align:top;font-family:Tahoma; font-size:8pt; color:#800080; font-style:normal; font-weight:normal; text-align:left; background-color:#FFFFFF;}
+td.Con {padding:0px;vertical-align:top;font-family:Tahoma; font-size:8pt; color:#008000; font-style:normal; font-weight:normal; text-align:left; background-color:#FFFFFF;}
+td.UofD {padding:0px;vertical-align:top;font-family:Tahoma; font-size:8pt; color:#FF0000; font-style:normal; font-weight:normal; text-align:left; background-color:#FFFFFF;}
+td.Footer {padding:2px;vertical-align:top; font-family:Tahoma; font-size:8pt; color:#000080; font-style:normal; font-weight:normal; text-align:Left; background-color:#FFFFFF;}
+a.Tree:link{font-family:Tahoma; font-size:8pt; color:#008000; font-style:normal; font-weight:normal; text-align:left;  text-decoration:none; }
+a.Tree:visited{font-family:Tahoma; font-size:8pt; color:#005000; font-style:normal; font-weight:normal; text-align:left; text-decoration:none;  }
+a.Tree:hover{font-family:Tahoma; font-size:8pt; color:#FF0000; font-style:normal; font-weight:normal; text-align:left; text-decoration:underline;  }
+b {font-family:Tahoma; font-size:10pt; color:#000080; font-style:normal; font-weight:Bold; text-align:Left; }
+img.tree {vertical-align:top;}
